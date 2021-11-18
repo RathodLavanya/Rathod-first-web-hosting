@@ -8,6 +8,7 @@
  
  <h1>Student portfolio</h1> 
 	Hey! Welcome to my portfolio.  I am learning programming.
+	1 JavaScript
 
 </body>
 </html>
